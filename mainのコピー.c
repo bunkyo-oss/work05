@@ -6,6 +6,7 @@
 //  Copyright © 2021 白石 亘. All rights reserved.
 //
 //mod_ikeda 20210202
+//20210203 wat mod
 
 #include <stdio.h>
 
